@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://github.com/user-attachments/assets/f3433c18-1830-4b72-bf34-229a3e78432d"  />
+  <img height="300" src="https://github.com/user-attachments/assets/f3433c18-1830-4b72-bf34-229a3e78432d"  />
 </div>
 
 
